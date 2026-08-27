@@ -14,14 +14,14 @@ Aqui não existe pesquisa isolada. Cada projeto tem pelo menos duas pessoas envo
 - [x] 
 
 
-## 🛠️ Tecnologias Utilizadas
-- **Front-end:** 
-- **Back-end:** [
-- **Banco de Dados:** 
+## 🛠️ Literatura Clássica
+- **F** 
+- **B** [
+- **:** 
 
 ## ⚙️ Principais Atividades
 - Artigos Publicados
-    ** Link
+    - [x]  
 
 ## 👨‍💻 Participantes
 
