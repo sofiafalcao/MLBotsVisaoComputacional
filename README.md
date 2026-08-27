@@ -20,6 +20,8 @@ Aqui não existe pesquisa isolada. Cada projeto tem pelo menos duas pessoas envo
 - **Banco de Dados:** 
 
 ## ⚙️ Principais Atividades
+- Artigos Publicados
+    ** Link
 
 ## 👨‍💻 Participantes
 
