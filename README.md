@@ -15,9 +15,9 @@ Aqui não existe pesquisa isolada. Cada projeto tem pelo menos duas pessoas envo
 
 
 ## 🛠️ Tecnologias Utilizadas
-- **Front-end:** [React](https://reactjs.org), [TailwindCSS](https://tailwindcss.com)
-- **Back-end:** [Node.js](https://nodejs.org), [Express](https://expressjs.com)
-- **Banco de Dados:** [MongoDB](https://mongodb.com)
+- **Front-end:** 
+- **Back-end:** [
+- **Banco de Dados:** 
 
 ## ⚙️ Principais Atividades
 
@@ -27,6 +27,3 @@ Aqui não existe pesquisa isolada. Cada projeto tem pelo menos duas pessoas envo
 - Maria Sofia
 - Mariana
 - Pâmela
-
-- [LinkedIn](https://linkedin.com)
-- [GitHub](https://github.com)
