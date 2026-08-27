@@ -5,7 +5,7 @@
 
 
 ## 🎯 Sobre o Projeto
-O subgrupo nasceu da necessidade de aproximar as pessoas que trabalham com imagens dentro do grupo de IA. A ideia é simples: em vez de cada integrante resolver sozinho os mesmos problemas de dataset, treinamento e avaliação, construímos uma base comum de código, dados e conhecimento que todo mundo pode reaproveitar.
+O subgrupo nasceu da necessidade de aproximar os participantes do MLBots que trabalham na linha de pesquisa Visão Computacional. A ideia é simples: devolver pesquisa colaborativa e compartilhar conhecimento.
 
 Aqui não existe pesquisa isolada. Cada projeto tem pelo menos duas pessoas envolvidas, seja no desenvolvimento, seja na revisão, e os resultados são discutidos coletivamente antes de virarem artigo, dissertação ou aplicação.
 
